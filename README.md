@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sektech
-- 👀 I’m interested in ... **learning and working latest technologies**
+- 👀 I’m interested in ... **learning and working with technologies**
 - 🌱 I’m currently learning ... **Spring boot, Python,Linux,Docker,Kubernetes,AWS**
 - 💞️ I’m looking to collaborate on ...**Coding challenges, Solution architect**
 - 📫 How to reach me ... **sektech1484@gmail.com**
